@@ -1,16 +1,5 @@
 # Getting Started with Create React App
 
-## Available Scripts
+Github Repo. of TodoList Project [See Demo Here](https://github.com/Deepakgauttam/Todo-List-React-Redux).
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-
-**Demo**: You can access the live demo of the project [here](https://tuke2b.csb.app/).
+Demo of TodoList Project [See Demo Here](demo_url).

@@ -1,14 +1,17 @@
+// App.js
 import React from "react";
-import { Provider } from "react-redux";
-import Counter from "./redux/components/Counter";
-import store from "./redux/store";
+import "./app.css";
+import AddTodoForm from "./redux/components/AddTodoForm";
+import TodoList from "./redux/components/TodoList";
 
-function App() {
+const App = () => {
   return (
-    <Provider store={store}>
-      <Counter />
-    </Provider>
+    <div className="app-container">
+      <h1>Todo List</h1>
+      <AddTodoForm />
+      <TodoList />
+    </div>
   );
-}
+};
 
 export default App;
